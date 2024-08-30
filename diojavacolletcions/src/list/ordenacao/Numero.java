@@ -1,7 +1,5 @@
 package list.ordenacao;
 
-import java.util.Collections;
-
 public class Numero implements Comparable<Numero> {
 	
 	private int numero;
